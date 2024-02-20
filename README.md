@@ -14,4 +14,4 @@ Screenshot 2
 ---
 Video
 ---
-![Youtube Video](https://www.youtube.com/watch?v=z9I1JuIevcM)
+https://www.youtube.com/watch?v=z9I1JuIevcM
